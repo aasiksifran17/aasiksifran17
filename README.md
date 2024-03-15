@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Test**
 
-- 🌱 I’m currently learning **java & Flutter Mobile Application**
+- 🌱 I’m currently learning **java, MERN, & Flutter Mobile Application**
 
 - 🤝 I’m looking for help with **Java**
 
