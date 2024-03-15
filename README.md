@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **HTML, CSS & Javascript**
 
-- 📫 How to reach me **aasikmohamed782@gmail.com**
+- 📫 How to reach me ** <a href"https://wa.me/message/3XRINMPRVWI2O1"> Aasik.whatsapp <a/> **
 
 - ⚡ Fun fact **Call me as Justin guerber**
 
