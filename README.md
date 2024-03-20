@@ -1,6 +1,6 @@
 
 # Hello, Folks! 👋 <br>
-<center><img src="git hub profile photo.png"></center>
+<center><img src="git hub profile photo new.jpg"></center>
 <h1 align="center">Hi 👋, I'm Kaleem Mohamed Aasik</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
