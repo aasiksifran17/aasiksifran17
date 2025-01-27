@@ -42,3 +42,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aasiksifran17&show_icons=true&locale=en" alt="aasiksifran17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasiksifran17&" alt="aasiksifran17" /></p>
+
+### ✍️ Programmer says:
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
